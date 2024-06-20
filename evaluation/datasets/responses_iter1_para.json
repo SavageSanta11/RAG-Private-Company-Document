@@ -1,0 +1,122 @@
+[
+    {
+      "question": "Which Documents are considered confidential?",
+      "rag_response": {
+        "answer": "According to the Schenker SG_Employee Handbook v5.1, it is not specified which documents are considered confidential or restricted. It is important to follow the confidentiality protocols established by the organization and to comply with legal and regulatory requirements, such as the Health Insurance Portability and Accountability Act (HIPAA) in the United States.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Code of Conduct_01_01_2012_English",
+          "Code of Conduct_01_01_2012_English"
+        ]
+      },
+      "human_response": "All information about the business activities of the DB Group which has not been published and which is not public is treated as confidential. This includes information about third parties, e.g. business partners, that is made available to us as a result of our working for the DB Group. We will not use any knowledge obtained from internal corporate processes for private gain. Generally, all corporate and commercial communication with the media and the general public is the responsibility of the Spokesperson of the Group (Head of Communications, GK)."
+    },
+    {
+      "question": "How to Change Passwords for Shared Accounts via SIMS DC?",
+      "rag_response": {
+        "answer": "To change passwords for shared accounts via SIMS DC, you will need to follow these steps:\n\n1. Open the SIMS DC program on your computer.\n2. Click on the \"Accounts\" tab in the main menu.\n3. Locate the account that you want to change the password for and click on the \"Change Password\" button.\n4. Enter the old password for the account.\n5. Enter the new password that you want to use for the account.\n6. Click on the \"Save\" button to complete the process.\n\nNote: If you are unsure about any steps or have trouble accessing the SIMS DC program, you should consult the user manual or contact the software manufacturer for assistance.</s>",
+        "sources": [
+          "How to Change Passwords for Shared Accounts",
+          "How to Change Passwords for Shared Accounts",
+          "How to Change Passwords for Shared Accounts"
+        ]
+      },
+      "human_response": "a. Login at https://sims.dc.signintra.com/itim/console/main b. Note: The login for this is using the Owner\u2019s SIMS account and will be prompted to perform 2FA via PingiD c. Click on Manage users. Search the account using UserID (Sims ID of account), or email address. Use the dropdown menu to toggle. Click on the small right arrow, then select Change Passwords Note: Only the Shared account Owner can change the password for the Shared account. d. Select \u201cAllow me to type a password\u201d, type in your new password for the Shared account and press on Submit."
+    },
+    {
+      "question": "What if my employee identification pass is missing?",
+      "rag_response": {
+        "answer": "If your employee identification pass is missing, you may still be able to access the necessary medication and receive treatment, but it may be more difficult or time-consuming. You can try to contact the hospital or medical facility where the medication is being dispensed and explain the situation to them. They may be able to verify your identity through other means, such as a driver's license or other form of identification. It's important to have proper identification in order to ensure that the medication is being administered to the correct person and to prevent errors or miscommunication. It may also be a good idea to keep a backup form of identification on hand, such as a copy of your driver's license or a notarized letter of employment, in case your employee identification pass is lost or stolen.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "It is compulsory for an employee to carry his/her employee identification pass with him/her at all times, as well as to prominently display it. The employee is responsible for keeping his/her pass secure at all times. In cases of loss, the employee shall immediately report the loss to the P&O Department. The Company will impose a replacement charge of S$30 (payable to Finance) for replacement."
+    },
+    {
+      "question": "If my job grade is E09, what is the duration of the Performance Improvement Plan (\u201cPIP\u201d)?",
+      "rag_response": {
+        "answer": "If your job grade is E09, the duration of the Performance Improvement Plan (\u201cPIP\u201d) is fixed at three months.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "The duration of the Performance Improvement Plan for an E09 Grade employee is 3 months."
+    },
+    {
+      "question": "In order to sustain good business relations can I provide them a gift from the company? If yes, what type of gift to provide?",
+      "rag_response": {
+        "answer": "It is important to note that providing gifts to government or public officials may not be permissible under certain laws and regulations. However, if the recipient is a business partner and the gift is intended for a festive occasion, then providing a gift from the company may be acceptable.\n\nIt is important to ensure that the gift does not violate any laws or regulations, and is not excessive or inappropriate. Low-value gifts such as Company-imprinted calendars, mugs, and ballpoint pens are generally considered appropriate. Other gifts such as electronics, jewelry, or expensive alcohol may be perceived as inappropriate or bribes.\n\nIt is also important to maintain transparency and disclose any gifts given to business partners in a manner that complies with applicable laws and regulations.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "To maintain good business relationships, an employee can arrange for gifts to be given to business partners on festive occasions. However, we should not give gifts that: a. Are bribes, kickbacks or payoffs b.  Are monetary gifts (includes vouchers and discounts) c. Are prohibited by the recipient\u2019s organisation d. Indirectly reach the business partner (e.g. by giving gifts to his/her family member) e. Influence or appear to influence the recipient\u2019s business conduct/decisions."
+    },
+    {
+      "question": "What is the kg CO2e for a wooden pallet?",
+      "rag_response": {
+        "answer": "I apologize, but the provided context does not include information about the kg CO2e (kilograms of carbon dioxide equivalent) for a wooden pallet. The context only mentions the Schenker SG_Employee Handbook v5.1 and a rate of 1.5 per hour for a helper pharmacist.\n\nTo calculate kg CO2e for a wooden pallet, you would need to consider various factors, such as the type of wood used, the manufacturing process, transportation, and other factors that contribute to the carbon footprint of the pallet. It is also important to note that carbon emissions are generally measured in tons, not kilograms.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "The kg CO2e for a wooden pallet is 18."
+    },
+    {
+      "question": "What are the exclusions for under the Group Business Travel Insurance?",
+      "rag_response": {
+        "answer": "The exclusions for the Group Business Travel Insurance are related to AIDS or AIDS-related illness, which deems related consultations and treatments non-claimable.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "In accordance with the Company\u2019s arrangements with its insurer, all employees will not receive insurance coverage for the following conditions, which deems related consultations and treatments non-claimable: a. AIDs or AIDs-related illness; b. Alcohol-related claims; c. Drug abuse; d. Engagement in professional sports or professional racing on wheels; e. Self-inflicted injury; f. War or warlike operations."
+    },
+    {
+      "question": "What costs will I be liable to pay if I lose/damage my company laptop?",
+      "rag_response": {
+        "answer": "If you lose or damage your company laptop, you will be liable to pay the full replacement cost for the laptop.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "Because of the high cost involved, an employee who loses his/her Company laptop within the course of his/her employment will have to bear the following tiers of payment or the full cost of replacing new equipment, whichever is lower: 1. 1st year of purchase: 60% of original purchase price 2. 2nd year of purchase: 30% of original purchase price 3. 3rd year of purchase: 15% of original purchase price 4. Thereafter: Flat rate of S$500 or 15 % of original purchase price The same employee who loses his/her Company laptop again will have to bear the full replacement cost."
+    },
+    {
+      "question": "What is the company policy on transfers?",
+      "rag_response": {
+        "answer": "Based on the context provided, the company policy on transfers is that the company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee\u2019s career development, for the prevention of potential conflicts of interest due to his/her familial relationship with another employee, and as a way of mitigating workplace harassment.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "The Company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee\u2019s career development, for the prevention of potential conflicts of interest due to his/her familial relationship with another employee, and as a way of mitigating workplace harassment. For similar reasons stated above, an employee may also request for a transfer. Every request will be considered on a case-by-case basis, and is subjected to individual suitability for the position applied. Any transfer will be confirmed in writing."
+    },
+    {
+      "question": "What is the company policy on overtime work?",
+      "rag_response": {
+        "answer": "According to the Schenker SG_Employee Handbook v5.1, overtime work is defined as hours worked in addition to an employee's normal working hours. The company will pay the employee for his/her meal hour on his/her normal working days. However, the company will not pay the employee for his/her meal hour(s) on his/her off days, rest days, and Public Holidays.</s>",
+        "sources": [
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1",
+          "Schenker SG_Employee Handbook v5.1"
+        ]
+      },
+      "human_response": "Overtime is defined as hours of work performed beyond official working hours. In line with operational and/or customer needs, an employee may be asked to work overtime by his superior. All overtime shall be done on a voluntary basis. In accordance with the Employment Act, an employee\u2019s overtime in any given month must not exceed 72 hours, unless exemption has been formerly granted to the Company by the Ministry of Manpower."
+    }
+  ]

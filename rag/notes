@@ -1,0 +1,13 @@
+Z2VsJ74w.bQtNZvpg0BAsRjiBaQCPAYEfI8G92IY1
+
+docker build -t savagesanta11/rag:latest .
+
+docker run -it -p 8080:8080 savagesanta11/rag:latest
+
+docker push savagesanta11/rag:latest
+
+docker push {your_docker_username}/{docker_image_name}:latest
+
+kubectl apply -f build.yaml 
+
+change port mapping in expose to 8080

@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which Documents are considered confidential?",
+    "rag_response": {
+      "answer": "Based on the given context, any documents or information that are considered confidential under the company's Confidentiality clause are considered confidential. This includes, but is not limited to, the terms and conditions of employment, the affairs, operations and dealings of the company, information and documents concerning any person, company, agent, governmental department or authority with whom the company may have dealings, information and documents obtained by the employee from any person or company having dealings with the company in the course of his/her employment, which by their nature, or by the circumstances of their disclosure are or could reasonably be expected to be regarded as confidential, or are not publicly known. This includes personal data of individuals that employees may have come into contact with during their employment with the company, such as colleagues, customers who are individuals, corporate customers and their employees, corporate suppliers, partners, and contractors, as well as all of their employees.</s>",
+      "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "All information about the business activities of the DB Group which has not been published and which is not public is treated as confidential. This includes information about third parties, e.g. business partners, that is made available to us as a result of our working for the DB Group. We will not use any knowledge obtained from internal corporate processes for private gain. Generally, all corporate and commercial communication with the media and the general public is the responsibility of the Spokesperson of the Group (Head of Communications, GK)."
+  },
+  {
+    "question": "How to Change Passwords for Shared Accounts via SIMS DC?",
+    "rag_response": {
+      "answer": "The steps to change passwords for shared accounts via SIMS DC are:\n\n1. Log in to the SIMS DC website using your Owner's SIMS account and PingiD 2Fa.\n2. Click on the \"Manage Users\" tab.\n3. Search for the account using the UserID (Sims ID of the account) or email address.\n4. Toggle the dropdown menu and click on the small right arrow.\n5. Select \"Change Passwords.\"\n6. Select \"Allow me to type a password\" and type in your new password for the shared account.\n7. Press the \"Submit\" button to change the password.\n\nNote: Only the Shared account Owner can change the password for the shared account.</s>",
+    "sources": [
+        "1. How to Change Passwords for Shared Accounts",
+        "10.Job Aid for MIDC Platform_Ver081123",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "a. Login at https://sims.dc.signintra.com/itim/console/main b. Note: The login for this is using the Owner\u2019s SIMS account and will be prompted to perform 2FA via PingiD c. Click on Manage users. Search the account using UserID (Sims ID of account), or email address. Use the dropdown menu to toggle. Click on the small right arrow, then select Change Passwords Note: Only the Shared account Owner can change the password for the Shared account. d. Select \u201cAllow me to type a password\u201d, type in your new password for the Shared account and press on Submit."
+  },
+  {
+    "question": "What if my employee identification pass is missing?",
+    "rag_response": {
+      "answer": "If an employee identification pass is missing, it is important for the employee to report it to the appropriate authorities immediately. The employee should contact their HR department or supervisor to report the loss and to follow the company's policy on lost identification cards. It is important for the employee to keep a copy of their identification pass on hand or have another form of identification that can be used for work purposes. If the employee has any concerns about the security of their work or personal information, they should also contact their supervisor or HR department for guidance on how to protect their information.</s>",
+    "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "It is compulsory for an employee to carry his/her employee identification pass with him/her at all times, as well as to prominently display it. The employee is responsible for keeping his/her pass secure at all times. In cases of loss, the employee shall immediately report the loss to the P&O Department. The Company will impose a replacement charge of S$30 (payable to Finance) for replacement."
+  },
+  {
+    "question": "If my job grade is E09, what is the duration of the Performance Improvement Plan (\u201cPIP\u201d)?",
+    "rag_response": {
+      "answer": "If your job grade is E09, the duration of the Performance Improvement Plan (\"PIP\") is 3 months.</s>",
+      "sources": [
+          "3.Schenker SG_Employee Handbook v5.1",
+          "3.Schenker SG_Employee Handbook v5.1",
+          "3.Schenker SG_Employee Handbook v5.1"
+      ]
+    },
+    "human_response": "The duration of the Performance Improvement Plan for an E09 Grade employee is 3 months."
+  },
+  {
+    "question": "In order to sustain good business relations can I provide them a gift from the company? If yes, what type of gift to provide?",
+    "rag_response": {
+      "answer": "According to the gift, sponsorship, and donation policy outlined in the employee handbook, it is permitted to provide a gift to a business partner in order to sustain good business relations. However, it is important to note that the gift must not influence or appear to influence business conduct, be a bribe, payoff, or kickback, be prohibited by the recipient's organization, or be given to a family member of the business partner. Additionally, it is important to check the gift acceptance policy of the business partner before presenting the gift. The gift must also be approved by the CEO and be within budget.\n\nIn terms of the type of gift to provide, it is suggested that low value gifts such as calendars, coffee mugs, or ballpoint pens may be acceptable, but not cash or gift vouchers of the same value. It is important to consult the gift acceptance policy of the business partner to determine what types of gifts are acceptable.</s>",
+      "sources": [
+          "3.Schenker SG_Employee Handbook v5.1",
+          "3.Schenker SG_Employee Handbook v5.1",
+          "3.Schenker SG_Employee Handbook v5.1"
+      ]
+    },
+    "human_response": "To maintain good business relationships, an employee can arrange for gifts to be given to business partners on festive occasions. However, we should not give gifts that: a. Are bribes, kickbacks or payoffs b.  Are monetary gifts (includes vouchers and discounts) c. Are prohibited by the recipient\u2019s organisation d. Indirectly reach the business partner (e.g. by giving gifts to his/her family member) e. Influence or appear to influence the recipient\u2019s business conduct/decisions."
+  },
+  {
+    "question": "What is the kg CO2e for a wooden pallet?",
+    "rag_response": {
+      "answer": "I apologize, but the provided context does not include information about the kg CO2e (kilograms of carbon dioxide equivalent) for a wooden pallet. The context only mentions the Schenker SG_Employee Handbook v5.1 and a rate of 1.5 per hour for a helper pharmacist.\n\nTo calculate kg CO2e for a wooden pallet, you would need to consider various factors, such as the type of wood used, the manufacturing process, transportation, and other factors that contribute to the carbon footprint of the pallet. It is also important to note that carbon emissions are generally measured in tons, not kilograms.</s>",
+      "sources": [
+        "Schenker SG_Employee Handbook v5.1",
+        "Schenker SG_Employee Handbook v5.1",
+        "Schenker SG_Employee Handbook v5.1"
+      ]
+    },
+    "human_response": "The kg CO2e for a wooden pallet is 18."
+  },
+  {
+    "question": "What are the exclusions for under the Group Business Travel Insurance?",
+    "rag_response": {
+      "answer": "The exclusions for under the Group Business Travel Insurance are:\n\n1. AIDS or AIDS-related illness\n2. Alcohol-related claims\n3. Drug abuse\n4. Engagement in professional sports or professional racing on wheels\n5. Self-inflicted injury\n6. War or warlike operations.</s>",
+    "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "In accordance with the Company\u2019s arrangements with its insurer, all employees will not receive insurance coverage for the following conditions, which deems related consultations and treatments non-claimable: a. AIDs or AIDs-related illness; b. Alcohol-related claims; c. Drug abuse; d. Engagement in professional sports or professional racing on wheels; e. Self-inflicted injury; f. War or warlike operations."
+  },
+  {
+    "question": "What costs will I be liable to pay if I lose/damage my company laptop?",
+    "rag_response": {
+      "answer": "If an employee loses or damages their company laptop, they will be liable to pay the following costs:\n\n* For the first year of purchase, 60% of the original purchase price.\n* For the second year of purchase, 30% of the original purchase price.\n* For the third year of purchase, 15% of the original purchase price.\n* Thereafter, a flat rate of S$500 or 15% of the original purchase price, whichever is lower.\n\nIf the employee loses their company laptop again, they will be liable to pay the full replacement cost.\n\nNote: It's important to note that the laptop is the property of the company and employees should keep it in careful custody and security.</s>",
+    "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "Because of the high cost involved, an employee who loses his/her Company laptop within the course of his/her employment will have to bear the following tiers of payment or the full cost of replacing new equipment, whichever is lower: 1. 1st year of purchase: 60% of original purchase price 2. 2nd year of purchase: 30% of original purchase price 3. 3rd year of purchase: 15% of original purchase price 4. Thereafter: Flat rate of S$500 or 15 % of original purchase price The same employee who loses his/her Company laptop again will have to bear the full replacement cost."
+  },
+  {
+    "question": "What is the company policy on transfers?",
+    "rag_response": {
+      "answer": "Based on the provided context, the company policy on transfers states that the company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee's career development. Such transfers may be made for the prevention of potential conflicts of interest due to familial relationships with other employees or to mitigate workplace harassment. Any transfer will be confirmed in writing. An employee may also request for a transfer, which will be considered on a case-by-case basis, and is subject to individual suitability for the position applied.</s>",
+    "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "The Company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee\u2019s career development, for the prevention of potential conflicts of interest due to his/her familial relationship with another employee, and as a way of mitigating workplace harassment. For similar reasons stated above, an employee may also request for a transfer. Every request will be considered on a case-by-case basis, and is subjected to individual suitability for the position applied. Any transfer will be confirmed in writing."
+  },
+  {
+    "question": "What is the company policy on overtime work?",
+    "rag_response": {
+      "answer": "Based on the given context, the company policy on overtime work is to compensate eligible employees for their overtime work according to the payment scheme outlined in the Employee Handbook. Employees who earn up to S$2,600 and S$4,500 per month are eligible for overtime payment. The payment for overtime work is calculated based on the hourly basic rate of pay of the employee, which is calculated based on the formula mentioned in the handbook. The payment for overtime work is on top of the employee's basic rate of pay and is payable for hours worked in addition to an employee's normal working hours. The payment for overtime work is coded as Overtime in the payment scheme, and the description of payment is given in the table provided. The payment for overtime work earned from the 14th to the last day of the month will be credited into the employee's bank account the following month. The Company will not pay an employee for his/her meal hour(s) on his/her off days, rest days and Public Holidays.</s>",
+    "sources": [
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1",
+        "3.Schenker SG_Employee Handbook v5.1"
+    ]
+    },
+    "human_response": "Overtime is defined as hours of work performed beyond official working hours. In line with operational and/or customer needs, an employee may be asked to work overtime by his superior. All overtime shall be done on a voluntary basis. In accordance with the Employment Act, an employee\u2019s overtime in any given month must not exceed 72 hours, unless exemption has been formerly granted to the Company by the Ministry of Manpower."
+  }
+]

@@ -1,0 +1,10 @@
+notes
+req.json
+test.py
+venv/
+llm/__pycache__
+__pycache__
+vectorstore/__pycache__
+models/__pycache__
+.pytest_cache
+conv_history/__pycache__

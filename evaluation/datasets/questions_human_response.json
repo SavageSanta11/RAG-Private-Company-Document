@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Which Documents are considered confidential?",
+        "human_response": "All information about the business activities of the DB Group which has not been published and which is not public is treated as confidential. This includes information about third parties, e.g. business partners, that is made available to us as a result of our working for the DB Group. We will not use any knowledge obtained from internal corporate processes for private gain. Generally, all corporate and commercial communication with the media and the general public is the responsibility of the Spokesperson of the Group (Head of Communications, GK)."
+    },
+    {
+        "question": "How to Change Passwords for Shared Accounts via SIMS DC",
+        "human_response": "a. Login at https://sims.dc.signintra.com/itim/console/main b. Note: The login for this is using the Owner’s SIMS account and will be prompted to perform 2FA via PingiD c. Click on Manage users. Search the account using UserID (Sims ID of account), or email address. Use the dropdown menu to toggle. Click on the small right arrow, then select Change Passwords Note: Only the Shared account Owner can change the password for the Shared account. d. Select “Allow me to type a password”, type in your new password for the Shared account and press on Submit." 
+    },
+    {
+        "question": "What if my employee identification pass is missing?",
+        "human_response": "It is compulsory for an employee to carry his/her employee identification pass with him/her at all times, as well as to prominently display it. The employee is responsible for keeping his/her pass secure at all times. In cases of loss, the employee shall immediately report the loss to the P&O Department. The Company will impose a replacement charge of S$30 (payable to Finance) for replacement."
+    },
+    {
+        "question": "If my job grade is E09, what is the duration of the Performance Improvement Plan (“PIP”)?",
+        "human_response": "The duration of the Performance Improvement Plan for an E09 Grade employee is 3 months."
+    },
+    {
+        "question": "In order to sustain good business relations can I provide them a gift from the company? If yes, what type of gift to provide?",
+        "human_response": "To maintain good business relationships, an employee can arrange for gifts to be given to business partners on festive occasions. However, we should not give gifts that: a. Are bribes, kickbacks or payoffs b.  Are monetary gifts (includes vouchers and discounts) c. Are prohibited by the recipient’s organisation d. Indirectly reach the business partner (e.g. by giving gifts to his/her family member) e. Influence or appear to influence the recipient’s business conduct/decisions"
+    },
+    {
+        "question": "What is the kg CO2e for a wooden pallet?",
+        "human_response": "The kg CO2e for a wooden pallet is 18."
+    },    {
+        "question": "What are the exclusions for under the Group Business Travel Insurance?",
+        "human_response": "In accordance with the Company’s arrangements with its insurer, all employees will not receive insurance coverage for the following conditions, which deems related consultations and treatments non-claimable: a. AIDs or AIDs-related illness; b. Alcohol-related claims; c. Drug abuse; d. Engagement in professional sports or professional racing on wheels; e. Self-inflicted injury; f. War or warlike operations."
+    },    {
+        "question": "What costs will I be liable to pay if I lose/damage my company laptop?",
+        "human_response": "Because of the high cost involved, an employee who loses his/her Company laptop within the course of his/her employment will have to bear the following tiers of payment or the full cost of replacing new equipment, whichever is lower: 1. 1st year of purchase: 60% of original purchase price 2. 2nd year of purchase: 30% of original purchase price 3. 3rd year of purchase: 15% of original purchase price 4. Thereafter: Flat rate of S$500 or 15 % of original purchase price. The same employee who loses his/her Company laptop again will have to bear the full replacement cost."
+    },    {
+        "question": "What is the company policy on transfers?",
+        "human_response": "The Company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee’s career development, for the prevention of potential conflicts of interest due to his/her familial relationship with another employee, and as a way of mitigating workplace harassment. For similar reasons stated above, an employee may also request for a transfer. Every request will be considered on a case-by-case basis, and is subjected to individual suitability for the position applied. Any transfer will be confirmed in writing."
+    },    {
+        "question": "What is the company policy on overtime work?",
+        "human_response": "Overtime is defined as hours of work performed beyond official working hours. In line with operational and/or customer needs, an employee may be asked to work overtime by his superior. All overtime shall be done on a voluntary basis. In accordance with the Employment Act, an employee’s overtime in any given month must not exceed 72 hours, unless exemption has been formerly granted to the Company by the Ministry of Manpower."
+    }]

@@ -1,0 +1,9 @@
+docker build -t savagesanta11/cache_api:latest .
+
+docker run -it -p 8080:8080 savagesanta11/cache_api:latest
+
+docker push savagesanta11/cache_api:latest
+
+kubectl apply -f build.yaml 
+
+change port mapping in expose to 8080

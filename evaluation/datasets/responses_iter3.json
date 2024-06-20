@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which Documents are considered confidential?",
+    "rag_response": "According to the Schenker SG_Employee Handbook v5.1, all forms of communication, including correspondence via email, fax, oral reporting and telephone, as well as in the forms of tape -recordings, discs and computer prints, are considered confidential. Additionally, any information and documents supplied, entrusted or made available to an employee by the company, or which the employee may have acquired or come into contact with during the course of their employment with the company, are also considered confidential. This includes personal data of individuals that employees may have come into contact with during their employment with the company. The agreement extends to corporate suppliers, partners and contractors, as well as all of their employees.</s>",
+    "human_response": "All information about the business activities of the DB Group which has not been published and which is not public is treated as confidential. This includes information about third parties, e.g. business partners, that is made available to us as a result of our working for the DB Group. We will not use any knowledge obtained from internal corporate processes for private gain. Generally, all corporate and commercial communication with the media and the general public is the responsibility of the Spokesperson of the Group (Head of Communications, GK).",
+    "time_taken": 14.656278848648071
+  },
+  {
+    "question": "How to Change Passwords for Shared Accounts via SIMS DC",
+    "rag_response": "To change passwords for shared accounts via SIMS DC, follow these steps:\n\n1. Login to the SIMS DC console using the owner's SIMS account.\n2. Click on the \"Manage users\" option.\n3. Use the dropdown menu to search for the account using the UserID (Sims ID) or email address.\n4. Click on the small right arrow and select \"Change Passwords\" from the dropdown.\n5. Select \"Allow me to type a password\" and enter the new password for the shared account.\n6. Click on the \"Submit\" button to save the changes.\n\nPlease note that only the owner of the shared account can change the password for the shared account.</s>",
+    "human_response": "a. Login at https://sims.dc.signintra.com/itim/console/main b. Note: The login for this is using the Owner\u2019s SIMS account and will be prompted to perform 2FA via PingiD c. Click on Manage users. Search the account using UserID (Sims ID of account), or email address. Use the dropdown menu to toggle. Click on the small right arrow, then select Change Passwords Note: Only the Shared account Owner can change the password for the Shared account. d. Select \u201cAllow me to type a password\u201d, type in your new password for the Shared account and press on Submit.",
+    "time_taken": 9.754271984100342
+  },
+  {
+    "question": "What if my employee identification pass is missing?",
+    "rag_response": "If an employee loses their identification pass, they should immediately report it to their supervisor or HR department. The employee should also take appropriate action to minimize the risk of identity theft, such as canceling any credit or debit cards linked to the pass and reporting the lost pass to the relevant authorities. The employee may also need to provide proof of their identity and eligibility to work at the company in order to continue performing their duties.</s>",
+    "human_response": "It is compulsory for an employee to carry his/her employee identification pass with him/her at all times, as well as to prominently display it. The employee is responsible for keeping his/her pass secure at all times. In cases of loss, the employee shall immediately report the loss to the P&O Department. The Company will impose a replacement charge of S$30 (payable to Finance) for replacement.",
+    "time_taken": 7.753199577331543
+  },
+  {
+    "question": "If my job grade is E09, what is the duration of the Performance Improvement Plan (\u201cPIP\u201d)?",
+    "rag_response": "If your job grade is E09, the duration of the Performance Improvement Plan (\"PIP\") is fixed at three months.</s>",
+    "human_response": "The duration of the Performance Improvement Plan for an E09 Grade employee is 3 months.",
+    "time_taken": 5.434141635894775
+  },
+  {
+    "question": "In order to sustain good business relations can I provide them a gift from the company? If yes, what type of gift to provide?",
+    "rag_response": "Based on the provided context, gifts can be arranged for business partners on festive occasions such as Christmas, New Year, Mid -Autumn Festival, etc. However, there are certain restrictions on the type of gifts that can be given. Gifts that influence or appear to influence business conduct, that are bribes, payoffs or kickbacks, that are prohibited by the recipient's organisation, or that are given to family members of business partners are strictly prohibited. Before presenting the gifts, employees must check with business partners for any Gift Acceptance Policy to avoid any violation of their company policy. It is also important to maintain records of gift expenses and submit a Gift Summary Compliance Form to the Finance Department detailing all approved gifts.</s>",
+    "human_response": "To maintain good business relationships, an employee can arrange for gifts to be given to business partners on festive occasions. However, we should not give gifts that: a. Are bribes, kickbacks or payoffs b.  Are monetary gifts (includes vouchers and discounts) c. Are prohibited by the recipient\u2019s organisation d. Indirectly reach the business partner (e.g. by giving gifts to his/her family member) e. Influence or appear to influence the recipient\u2019s business conduct/decisions",
+    "time_taken": 10.865118265151978
+  },
+  {
+    "question": "What is the kg CO2e for a wooden pallet?",
+    "rag_response": "The kg CO2e for a wooden pallet is 18.</s>",
+    "human_response": "The kg CO2e for a wooden pallet is 18.",
+    "time_taken": 4.8021628856658936
+  },
+  {
+    "question": "What are the exclusions for under the Group Business Travel Insurance?",
+    "rag_response": "According to the company's arrangements with its insurer, the exclusions for under the Group Business Travel Insurance include AIDs or AIDs-related illness, alcohol-related claims, drug abuse, engagement in professional sports or professional racing on wheels, self-inflicted injury, and war or warlike operations.</s>",
+    "human_response": "In accordance with the Company\u2019s arrangements with its insurer, all employees will not receive insurance coverage for the following conditions, which deems related consultations and treatments non-claimable: a. AIDs or AIDs-related illness; b. Alcohol-related claims; c. Drug abuse; d. Engagement in professional sports or professional racing on wheels; e. Self-inflicted injury; f. War or warlike operations.",
+    "time_taken": 6.524826526641846
+  },
+  {
+    "question": "What costs will I be liable to pay if I lose/damage my company laptop?",
+    "rag_response": "If you lose or damage your company laptop, the cost you will be liable to pay depends on the length of time you have had the laptop. For the first year of purchase, you will be liable to pay 60% of the original purchase price. For the second year, you will be liable to pay 30% of the original purchase price. For the third year, you will be liable to pay 15% of the original purchase price. After that, you will be liable to pay a flat rate of S$500 or 15% of the original purchase price, whichever is lower. If you lose your laptop again, you will be liable to pay the full cost of replacement.</s>",
+    "human_response": "Because of the high cost involved, an employee who loses his/her Company laptop within the course of his/her employment will have to bear the following tiers of payment or the full cost of replacing new equipment, whichever is lower: 1. 1st year of purchase: 60% of original purchase price 2. 2nd year of purchase: 30% of original purchase price 3. 3rd year of purchase: 15% of original purchase price 4. Thereafter: Flat rate of S$500 or 15 % of original purchase price. The same employee who loses his/her Company laptop again will have to bear the full replacement cost.",
+    "time_taken": 10.428794860839844
+  },
+  {
+    "question": "What is the company policy on transfers?",
+    "rag_response": "The company policy on transfers is stated in section 5.3.7 of the DB Schenker Employee Handbook v5.1. According to this policy, the company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee's career development, for the prevention of potential conflicts of interest due to familial relationships, and as a way of mitigating workplace harassment. The company may also provide employees with the opportunity to request a transfer, subject to individual suitability for the position and the company's discretion. Any transfer will be confirmed in writing.</s>",
+    "human_response": "The Company reserves the right to transfer an employee to another department and/or place of work in the interest of business needs or the employee\u2019s career development, for the prevention of potential conflicts of interest due to his/her familial relationship with another employee, and as a way of mitigating workplace harassment. For similar reasons stated above, an employee may also request for a transfer. Every request will be considered on a case-by-case basis, and is subjected to individual suitability for the position applied. Any transfer will be confirmed in writing.",
+    "time_taken": 9.698511838912964
+  },
+  {
+    "question": "What is the company policy on overtime work?",
+    "rag_response": "The company policy on overtime work is that employees who earn up to $2,600 and $4,500 monthly are eligible for overtime payment. If an employee is required to work after their normal working hours or stipulated shift hours, they will be compensated accordingly. The payment scheme is based on the hours worked, with different rates for overtime worked on the same day, rest days, Public Holidays, and shift work. The company also offers a standby allowance to employees who earn between $2,601 to $3,000 monthly, which is based on the employee's hours worked. However, overtime in any given month must not exceed 72 hours unless an exemption has been granted. Employees are also not allowed to engage in additional employment or business activities outside of the company's employment without prior written consent from the management.</s>",
+    "human_response": "Overtime is defined as hours of work performed beyond official working hours. In line with operational and/or customer needs, an employee may be asked to work overtime by his superior. All overtime shall be done on a voluntary basis. In accordance with the Employment Act, an employee\u2019s overtime in any given month must not exceed 72 hours, unless exemption has been formerly granted to the Company by the Ministry of Manpower.",
+    "time_taken": 12.282433032989502
+  }
+]

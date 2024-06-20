@@ -1,0 +1,5 @@
+fastapi
+pinecone-client
+langchain
+sentence-transformers
+uvicorn[standard]
