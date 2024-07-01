@@ -6,9 +6,6 @@
     <h1 align="center">RAG-PRIVATE-COMPANY-DOCUMENT</h1>
 </p>
 <p align="center">
-    <em>HTTP error 429 for prompt `slogan`</em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/SavageSanta11/RAG-Private-Company-Document?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/SavageSanta11/RAG-Private-Company-Document?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/SavageSanta11/RAG-Private-Company-Document?style=flat&color=0080ff" alt="repo-top-language">
